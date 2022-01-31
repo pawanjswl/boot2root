@@ -1,5 +1,5 @@
-Here are some Plaintext Usernames and their Base64 encode passwords.
-Only one of these is a valid credential. Find out which one. Enjoy!!!
+Here are some Plaintext Usernames and their Base64 encoded passwords.
+Only one of these is a valid credential. Find out which one. And I bet you know where to use it :) Enjoy!!!
 
 root:cm9vdA==
 Root:Um9vdA==
